@@ -1,0 +1,6 @@
+framework module Pods_PinterestLayout {
+  umbrella header "Pods-PinterestLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
